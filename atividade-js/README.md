@@ -1,6 +1,7 @@
 # Introdução ao JavaScript - Etapas 0 a 4
 
 Desenvolvimento Web I - Técnico Integrado em Informática para Internet (Prof. Hewerton Oliveira, 2026)
+
 Aluno : Daniel Ramos Maciel
 
 ## Etapa 0 - Preparando o ambiente
