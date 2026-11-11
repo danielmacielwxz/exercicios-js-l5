@@ -1,19 +1,7 @@
 # Introdução ao JavaScript - Etapas 0 a 4
 
 Desenvolvimento Web I - Técnico Integrado em Informática para Internet (Prof. Hewerton Oliveira, 2026)
-
-Aqui estão os exercícios das etapas 0 a 4 da apostila. A apostila manda apagar o `script.js` a cada etapa, então guardei o código de cada uma em um arquivo separado pra não perder o que já fiz.
-
-Arquivos da pasta:
-
-- `index.html` e `script.js`: etapa 0
-- `etapa2-variaveis.js`: etapa 2
-- `etapa3-operadores.js`: etapa 3
-- `etapa4-condicionais.js`: etapa 4
-
-Pra ver uma etapa no navegador, é só trocar o nome do arquivo no `src` do `<script>` dentro do `index.html` e abrir o console (F12). Também dá pra rodar com o node, por exemplo `node etapa3-operadores.js`.
-
----
+Aluno : Daniel Ramos Maciel
 
 ## Etapa 0 - Preparando o ambiente
 
